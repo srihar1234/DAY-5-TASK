@@ -1,0 +1,32 @@
+{
+    "name": "sri hari k",
+    "email": "myhari2002@gmail.com",
+    "phone": "9443942957",
+    "degree": "BE",
+    "stream": "mechanical",
+    "location": {
+      "address": "4/a,kalappakkadu,nggo colony,aranthangi",
+      "postalCode": "614616",
+      "city": "pudukkottai",
+      "state":"tamil nadu",
+      "country": "india"
+    },
+    "educational qualification":{
+    "higher secondary":[
+        {"school name":"srv matric hr.sec school",
+         "location":"samayapuram",
+         "percentage":90
+        }
+    ],
+    "college":{
+        "name": "ACGCET",
+        "location":"karaikudi",
+        "CGPA":8.7
+    }
+     },
+    "skills":{
+        "programming languages known":["JAVA","JAVASCRIPT"],
+        "languages known":["tamil,english"]
+    },
+    "hobbies":["films and related stuffs"]
+}
